@@ -32,9 +32,9 @@ metadata:
         f:mapRoles: {}
     manager: kubectl-patch
     operation: Update
-    time: "2021-02-24T21:11:43Z"
+    time: "2021-02-25T09:06:45Z"
   name: aws-auth
   namespace: kube-system
-  resourceVersion: "2845"
+  resourceVersion: "113823"
   selfLink: /api/v1/namespaces/kube-system/configmaps/aws-auth
   uid: a4b43848-804f-4d66-96af-a38b64f579d4
